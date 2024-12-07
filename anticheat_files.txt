@@ -43,4 +43,4 @@ pakchunk1003-WindowsClient.sig
 pakchunk1004-WindowsClient.sig
 pakchunkMCBuilds-WindowsClient.sig
 pakchunkBoysALiar-WindowsClient.sig
-pakchunkBoysALiar-WindowsClient.pack
+pakchunkBoysALiar-WindowsClient.pak
