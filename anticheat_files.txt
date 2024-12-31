@@ -22,6 +22,7 @@ pakchunk1004-WindowsClient.pak
 pakchunkMCBuilds-WindowsClient.pak
 pakchunkBoysALiar-WindowsClient.pak
 pakchunkDurrburgerPjs-WindowsClient.pak
+pakchunkS7-WindowsClient.pak
 pakchunk0_s1-WindowsClient.sig
 pakchunk0_s2-WindowsClient.sig
 pakchunk0_s3-WindowsClient.sig
@@ -46,3 +47,5 @@ pakchunk1004-WindowsClient.sig
 pakchunkMCBuilds-WindowsClient.sig
 pakchunkBoysALiar-WindowsClient.sig
 pakchunkDurrburgerPjs-WindowsClient.sig
+pakchunkS7-WindowsClient.sig
+
